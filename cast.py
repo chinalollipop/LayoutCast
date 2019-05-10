@@ -1,8 +1,8 @@
 {
-    "title": "移动url域名中心",
+    "title": "侧滑测试",
     "list": [
         {
-            "pid": "cp",
+            "pid": "侧滑",
             "url": "http://m.178333.com/"
         }
     ]
